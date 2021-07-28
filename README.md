@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **marinerocruzfer@gmail.com**
 
-- 📄 Know about my experiences [My main development branch is frontend developer, but I'm not afraid to work on backend tasks. I have developed before using technologies such as NodeJS and PHP.](My main development branch is frontend developer, but I'm not afraid to work on backend tasks. I have developed before using technologies such as NodeJS and PHP.)
+- 📄 Know about my experiences My main development branch is frontend developer, but I'm not afraid to work on backend tasks. I have developed before using technologies such as NodeJS and PHP.
 
 - ⚡ Fun fact **I have used a computer every day since I was 7 years old.**
 
