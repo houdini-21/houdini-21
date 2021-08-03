@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Fernando (but you can call me Houdini 😉)</h1>
 <h3 align="center">A frontend developer, who loves video games, Russian hardbass and learning new things.</h3>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **React and VPS**
 
 - 💬 Ask me about **React,SASS,Javascript**
 
