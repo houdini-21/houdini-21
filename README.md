@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Fernando (but you can call me Houdini 😉)</h1>
-<h3 align="center">A frontend developer, who loves video games, Russian hardbass and learn new things.</h3>
+<h3 align="center">A fullstack developer, who loves video games, Russian hardbass and learn new things.</h3>
 
-- 🌱 I’m currently learning **React and Jest**
+- 🌱 I’m currently learning **Enzyme and Jest**
 
-- 💬 Ask me about **React,SASS,Javascript**
+- 💬 Ask me about **React,SASS,Javascript, How to defeat Malenia**
 
 - 📫 How to reach me **marinerocruzfer@gmail.com**
 
